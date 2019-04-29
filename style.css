@@ -23,7 +23,7 @@ font-family: 'Sawarabi Mincho', sans-serif;
    align-items: center;
    width:90%;
    font-size:45px;
-   background-image: url('img/header.jpg');
+   background-image: url('header.jpg');
    border-radius: 10px;
    background-position: center;
    background-size: cover;
@@ -73,7 +73,7 @@ font-family: 'Sawarabi Mincho', sans-serif;
     transition: 0.8s;
   }
   .left{
-    background-image: url('img/main1-l.JPG');
+    background-image: url('main1-l.JPG');
     background-size: cover;
     position: relative;
     background-position: center;
@@ -89,7 +89,7 @@ font-family: 'Sawarabi Mincho', sans-serif;
     content: ' ';
   }
   .right{
-    background-image: url('img/main1-r.JPG');
+    background-image: url('main1-r.JPG');
     background-size: cover;
     position: relative;
     background-position: center;
