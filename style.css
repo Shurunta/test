@@ -23,7 +23,7 @@ font-family: 'Noto Serif JP', serif;
    align-items: center;
    width:90%;
    font-size:45px;
-   background-image: url('img/header.jpg');
+   background-image: url('header.jpg');
    border-radius: 10px;
    background-size: cover;
    position: relative;
@@ -75,7 +75,7 @@ font-family: 'Noto Serif JP', serif;
     transform: scale(1.05);
   }
   .left{
-    background-image: url('img/main1-l.JPG');
+    background-image: url('main1-l.JPG');
     background-size: cover;
     position: relative;
   }
@@ -90,7 +90,7 @@ font-family: 'Noto Serif JP', serif;
     content: ' ';
   }
   .right{
-    background-image: url('img/main1-r.jpg');
+    background-image: url('main1-r.jpg');
     background-size: cover;
     position: relative;
   }
